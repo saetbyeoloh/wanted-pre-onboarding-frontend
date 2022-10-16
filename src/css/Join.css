@@ -1,0 +1,13 @@
+.JoinBorder{
+    margin-inline: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid blue;
+  }
+
+  .JoinForm{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+  }

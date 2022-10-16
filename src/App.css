@@ -1,0 +1,28 @@
+.LoginContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+}
+
+.LoginBox{
+  width: 30%;
+  height: 30%;
+}
+
+.mb-3{
+  width: 40%;
+}
+
+.LoginForm{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.border-primary{
+  margin-inline: 10%;
+  display: flex;
+  flex-direction: column;
+}
+
